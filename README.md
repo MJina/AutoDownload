@@ -1,2 +1,2 @@
-# AutoDownload
-This tool automatically download freeware from download portals.
+# AutoCrawler
+Automated download from download portals using Selenium web driver.
